@@ -1,59 +1,85 @@
-Hi, I'm Ankit Suthar 👋
-AI/ML Engineer · Data Scientist · Published Patent Holder
-📍 Rajasthan, India  |  📧 ankitsuthar117@gmail.com  |  www.linkedin.com/in/ankit-suthar-cse/
+# Hi there, I'm Ankit Suthar! 👋 
+### AI / Full-Stack Engineer • Data Scientist • Published Patent Holder
 
-🚀 About Me
-B.Tech Computer Science graduate from Chandigarh University with hands-on professional AI experience at Scale AI and a published patent in IoT automation. I build real-world AI/ML solutions — from healthcare prediction models to production-ready NLP pipelines.
+<p align="left">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="mailto:ankitsuthar117@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <img src="https://shields.io" alt="Location">
+</p>
 
-🤖 6 months professional AI experience at Scale AI (prompt engineering, NLP, data quality)
-📊 Achieved 94% accuracy on a lung cancer stage prediction ML model
-🔬 Published patent holder — Multi-Sensor Bluetooth Fire Alarm system (May 2025)
-🏆 IBM Machine Learning with Python — with Honors
-📜 Google Advanced Data Analytics Professional Certificate
-🌐 Built production NLP pipelines with web scraping, sentiment analysis, and batch Excel processing
+---
 
+## 🚀 About Me
 
-🛠️ Tech Stack
-Languages: Python (Pandas, NumPy, Scikit-learn, XGBoost), SQL, R, Java, C++
-AI / ML & NLP: Machine Learning, Predictive Modeling, NLP, Deep Learning (TensorFlow/PyTorch), Feature Engineering
-Visualization: Tableau, Power BI, Matplotlib, Microsoft Excel
-Tools & Cloud: Jupyter Notebook, Git/GitHub, Django, Cloud Services, Arduino/IoT
+I am a hybrid **Software Engineer** and **Data Scientist** specializing in bridging the gap between enterprise application architecture and intelligent data systems. Currently working at **Wipro** as a Project Engineer in the Java Full-Stack domain, I build scalable microservices and database engines. 
 
-📂 Featured Projects
-🫁 Lung Cancer Stage Prediction
-Machine Learning · Python · Scikit-learn · XGBoost
-Predicted lung cancer stages from patient clinical and demographic data.
-94% accuracy achieved using Random Forest and XGBoost
-Compared multiple algorithms with feature engineering and cross-validation
-Real-world clinical decision support use case
+My background includes data scaling experience at **Scale AI**, a published **IoT patent**, and an academic foundation in Computer Science from Chandigarh University. I don't just build ML models; I engineer the production-grade infrastructure required to deploy them at enterprise scale.
+
+* 💼 **Current Focus:** Engineering cloud-ready microservices with Spring Boot and optimizing Oracle SQL databases.
+* 🤖 **AI/ML Impact:** Achieved 94% accuracy on clinical lung cancer stage prediction models and built automated NLP text pipelines.
+* 🔬 **Innovation:** Published patent holder for an automated, multi-sensor IoT environmental safety system.
+
+---
+
+## 🛠️ Technical Ecosystem
 
 
-📰 News Article Sentiment Analysis
-NLP · Python · Web Scraping · Excel Automation
-Production-ready NLP pipeline for automated sentiment and readability scoring.
-Extracts text from web URLs, applies lexicon-based sentiment analysis
-Calculates Polarity, Fog Index, complex word % and other linguistic metrics
-Batch processes Excel inputs, exports structured results to CSV
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Enterprise** | `Java` `Spring Boot` `Microservices Architecture` `REST APIs` `Django` `C++` |
+| **Data & Databases** | `Oracle SQL` `SQL` `Pandas` `NumPy` `Web Scraping` `Batch Processing` |
+| **AI, ML & NLP** | `Machine Learning` `NLP` `Deep Learning` `TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` |
+| **Data Visualization** | `Tableau` `Power BI` `Matplotlib` `Seaborn` `Advanced Excel` |
+| **Tools, Systems & IoT** | `Git` `GitHub` `Jupyter Notebooks` `Arduino/IoT` `Agile (Jira)` `Linux` |
 
+---
 
-🚗 Safe-Mate — Crash Detection System
-IoT · Arduino · Mobile Integration
-Real-time crash detection and emergency response system using IoT sensors integrated with a mobile application.
+## 💼 Professional Experience
 
-📜 Certifications
-Professional Certificates (Google & IBM):
-Google Advanced Data Analytics  •  Google Data Analytics  •  Machine Learning with Python — with Honors (IBM)  •  Deep Learning & Reinforcement Learning (IBM)  •  Computer Vision & Image Processing (IBM)  •  Data Visualization with Tableau (UC Davis)  •  Django for Everybody (U of Michigan)  •  Foundations of Cybersecurity (Google)  •  Algorithmic Toolbox (UC San Diego)
+#### **Wipro** | Project Engineer — Java Full-Stack Domain
+*March 2026 – Present*
+* **Microservices Development:** Architecting cloud-ready enterprise microservices using Java and Spring Boot.
+* **Database Optimization:** Engineering complex schemas, store procedures, and high-performance queries in Oracle SQL.
+* **API Integration:** Building resilient, low-latency RESTful endpoints connecting distributed application layers.
 
+#### **Scale AI** | AI Systems Analyst & Developer
+*May 2024 – Nov 2024*
+* **LLM Optimization:** Designed and optimized training prompts for complex NLP and large-scale data labeling workflows.
+* **Data Quality Assurance:** Implemented data validation protocols to scale AI model performance across English and Hindi pipelines.
 
-🏅 Patent
-Multi-Sensor Bluetooth Fire Alarm with Relay-Controlled Exhaust Fan
-Published: May 2025
-Invented and published an automated fire detection and ventilation control system combining multi-sensor IoT integration with Bluetooth communication — demonstrating independent hardware-software innovation.
+---
 
-💼 Experience
-AI Systems Analyst & Developer @ Scale AI (May 2024 – Nov 2024)
-Optimized AI training prompts for NLP and data labeling projects. Performed data quality assurance and implemented prompt engineering best practices in English and Hindi.
-AIML Trainee @ Chandigarh University (Jun 2023 – Aug 2023)
-Built ML workflows with Scikit-learn and explored TensorFlow/PyTorch neural network architectures.
+## 🔬 Featured Intellectual Property & Projects
 
-Open to AI/ML, Data Science, and NLP roles — fresher ready to contribute from day one! 🚀
+### 📜 Published Patent: Multi-Sensor Bluetooth Fire Alarm System
+*Published: May 2025*
+* Invented an automated hazard mitigation system integrating multi-sensor IoT arrays with Bluetooth communication.
+* Engineered a hardware-software relay interface that activates local exhaust systems automatically upon threat detection.
+
+### 🫁 Lung Cancer Stage Prediction Engine
+*Machine Learning • Python • Scikit-learn • XGBoost*
+* Built a clinical decision support system evaluating patient demographic and clinical matrices.
+* Achieved **94% stage prediction accuracy** utilizing optimized Random Forest and XGBoost architectures.
+
+### 📰 Automated News Sentiment & Readability Pipeline
+*NLP • Web Scraping • Python • Excel Automation*
+* Engineered a production-ready scraping tool that automatically extracts data from dynamic URLs.
+* Computes linguistic metrics (Polarity, Fog Index, complex words) and batch-exports structured analytical data.
+
+---
+
+## 📜 Selected Credentials
+
+* **Google:** Advanced Data Analytics Professional Certificate • Data Analytics Professional
+* **IBM:** Machine Learning with Python (With Honors) • Deep Learning & Reinforcement Learning
+* **UC Davis:** Data Visualization with Tableau
+* **UC San Diego:** Algorithmic Toolbox
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Ankit's GitHub Stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+</p>
