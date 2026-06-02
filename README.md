@@ -3,9 +3,8 @@
 
 **Contact Details**
 * 📧 Email: ankitsuthar117@gmail.com
-* 🌐 LinkedIn: ://linkedin.com
-* 📍 Location: Rajasthan, India
-
+* 🌐 LinkedIn: linkedin.com/in/ankit-suthar-cse
+* 📍 Location: Hyderabad
 ---
 
 ## 🚀 About Me
