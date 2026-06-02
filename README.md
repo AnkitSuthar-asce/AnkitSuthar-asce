@@ -1,11 +1,10 @@
 # Hi there, I'm Ankit Suthar! 👋 
 ### AI / Full-Stack Engineer • Data Scientist • Published Patent Holder
 
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:ankitsuthar117@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  <img src="https://shields.io" alt="Location">
-</p>
+**Contact Details**
+* 📧 Email: ankitsuthar117@gmail.com
+* 🌐 LinkedIn: ://linkedin.com
+* 📍 Location: Rajasthan, India
 
 ---
 
@@ -36,13 +35,13 @@ My background includes data scaling experience at **Scale AI**, a published **Io
 
 ## 💼 Professional Experience
 
-#### **Wipro** | Project Engineer — Java Full-Stack Domain
+### **Wipro** | Project Engineer — Java Full-Stack Domain
 *March 2026 – Present*
 * **Microservices Development:** Architecting cloud-ready enterprise microservices using Java and Spring Boot.
 * **Database Optimization:** Engineering complex schemas, store procedures, and high-performance queries in Oracle SQL.
 * **API Integration:** Building resilient, low-latency RESTful endpoints connecting distributed application layers.
 
-#### **Scale AI** | AI Systems Analyst & Developer
+### **Scale AI** | AI Systems Analyst & Developer
 *May 2024 – Nov 2024*
 * **LLM Optimization:** Designed and optimized training prompts for complex NLP and large-scale data labeling workflows.
 * **Data Quality Assurance:** Implemented data validation protocols to scale AI model performance across English and Hindi pipelines.
@@ -74,12 +73,3 @@ My background includes data scaling experience at **Scale AI**, a published **Io
 * **IBM:** Machine Learning with Python (With Honors) • Deep Learning & Reinforcement Learning
 * **UC Davis:** Data Visualization with Tableau
 * **UC San Diego:** Algorithmic Toolbox
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Ankit's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
