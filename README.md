@@ -2,8 +2,6 @@
 
 ### Software Engineer | Project Engineer @ Wipro | Java Backend Developer
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=AnkitSuthar-asce&show_icons=true&theme=tokyonight"/>
-
 I'm a Software Engineer at **Wipro** with a passion for building scalable backend systems using Java and the Spring ecosystem.
 
 I enjoy designing REST APIs, developing microservices, working with relational databases, and learning modern cloud-native technologies. Alongside enterprise development, I like building personal projects that combine software engineering with AI to solve real-world problems.
