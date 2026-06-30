@@ -1,74 +1,162 @@
-# Hi there, I'm Ankit Suthar! 👋 
-### AI / Full-Stack Engineer • Data Scientist • Published Patent Holder
+# Hi there, I'm Ankit Suthar 👋
 
-**Contact Details**
-* 📧 Email: ankitsuthar117@gmail.com
-* 🌐 LinkedIn: linkedin.com/in/ankit-suthar-cse
-* 📍 Location: Hyderabad
+### Software Engineer | Project Engineer @ Wipro | Java Backend Developer
+
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=AnkitSuthar-asce&show_icons=true&theme=tokyonight"/>
+
+I'm a Software Engineer at **Wipro** with a passion for building scalable backend systems using Java and the Spring ecosystem.
+
+I enjoy designing REST APIs, developing microservices, working with relational databases, and learning modern cloud-native technologies. Alongside enterprise development, I like building personal projects that combine software engineering with AI to solve real-world problems.
+
 ---
 
 ## 🚀 About Me
 
-I am a hybrid **Software Engineer** and **Data Scientist** specializing in bridging the gap between enterprise application architecture and intelligent data systems. Currently working at **Wipro** as a Project Engineer in the Java Full-Stack domain, I build scalable microservices and database engines. 
-
-My background includes data scaling experience at **Scale AI**, a published **IoT patent**, and an academic foundation in Computer Science from Chandigarh University. I don't just build ML models; I engineer the production-grade infrastructure required to deploy them at enterprise scale.
-
-* 💼 **Current Focus:** Engineering cloud-ready microservices with Spring Boot and optimizing Oracle SQL databases.
-* 🤖 **AI/ML Impact:** Achieved 94% accuracy on clinical lung cancer stage prediction models and built automated NLP text pipelines.
-* 🔬 **Innovation:** Published patent holder for an automated, multi-sensor IoT environmental safety system.
-
----
-
-## 🛠️ Technical Ecosystem
-
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Enterprise** | `Java` `Spring Boot` `Microservices Architecture` `REST APIs` `Django` `C++` |
-| **Data & Databases** | `Oracle SQL` `SQL` `Pandas` `NumPy` `Web Scraping` `Batch Processing` |
-| **AI, ML & NLP** | `Machine Learning` `NLP` `Deep Learning` `TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` |
-| **Data Visualization** | `Tableau` `Power BI` `Matplotlib` `Seaborn` `Advanced Excel` |
-| **Tools, Systems & IoT** | `Git` `GitHub` `Jupyter Notebooks` `Arduino/IoT` `Agile (Jira)` `Linux` |
+- 💼 Project Engineer at **Wipro**
+- ☕ Java Backend Developer
+- 🌱 Currently learning Cloud, Kubernetes, and System Design
+- 🔭 Building Microservices and Enterprise Applications
+- 🤖 Interested in AI-powered software products
+- 📍 Hyderabad, India
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Tech Stack
 
-### **Wipro** | Project Engineer — Java Full-Stack Domain
-*March 2026 – Present*
-* **Microservices Development:** Architecting cloud-ready enterprise microservices using Java and Spring Boot.
-* **Database Optimization:** Engineering complex schemas, store procedures, and high-performance queries in Oracle SQL.
-* **API Integration:** Building resilient, low-latency RESTful endpoints connecting distributed application layers.
+### Languages
 
-### **Scale AI** | AI Systems Analyst & Developer
-*May 2024 – Nov 2024*
-* **LLM Optimization:** Designed and optimized training prompts for complex NLP and large-scale data labeling workflows.
-* **Data Quality Assurance:** Implemented data validation protocols to scale AI model performance across English and Hindi pipelines.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🔬 Featured Intellectual Property & Projects
+### Backend
 
-### 📜 Published Patent: Multi-Sensor Bluetooth Fire Alarm System
-*Published: May 2025*
-* Invented an automated hazard mitigation system integrating multi-sensor IoT arrays with Bluetooth communication.
-* Engineered a hardware-software relay interface that activates local exhaust systems automatically upon threat detection.
-
-### 🫁 Lung Cancer Stage Prediction Engine
-*Machine Learning • Python • Scikit-learn • XGBoost*
-* Built a clinical decision support system evaluating patient demographic and clinical matrices.
-* Achieved **94% stage prediction accuracy** utilizing optimized Random Forest and XGBoost architectures.
-
-### 📰 Automated News Sentiment & Readability Pipeline
-*NLP • Web Scraping • Python • Excel Automation*
-* Engineered a production-ready scraping tool that automatically extracts data from dynamic URLs.
-* Computes linguistic metrics (Polarity, Fog Index, complex words) and batch-exports structured analytical data.
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
+- Spring Cloud
+- JWT Authentication
+- Maven
 
 ---
 
-## 📜 Selected Credentials
+### Database
 
-* **Google:** Advanced Data Analytics Professional Certificate • Data Analytics Professional
-* **IBM:** Machine Learning with Python (With Honors) • Deep Learning & Reinforcement Learning
-* **UC Davis:** Data Visualization with Tableau
-* **UC San Diego:** Algorithmic Toolbox
+- Oracle SQL
+- MySQL
+- JDBC
+
+---
+
+### DevOps & Tools
+
+- Git
+- GitHub
+- Docker
+- Jenkins
+- Kubernetes (Learning)
+- Postman
+- IntelliJ IDEA
+- Eclipse
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Grocery E-Commerce Microservices
+
+Enterprise-grade grocery platform built using Spring Boot Microservices.
+
+**Highlights**
+
+- API Gateway
+- Eureka Service Discovery
+- Config Server
+- JWT Authentication
+- Product Service
+- Cart Service
+- Inventory Service
+- Order Service
+- Coupon Service
+- Reward Service
+
+**Tech**
+
+`Java` `Spring Boot` `Spring Cloud` `Microservices` `MySQL` `Docker`
+
+---
+
+### 📚 PaperVault
+
+A social platform for researchers where users can discover, share, organize, and discuss research papers.
+
+**Tech**
+
+`Java` `Spring Boot` `REST API` `MySQL`
+
+---
+
+### 🤖 Knowledge Base Q&A System
+
+An enterprise Retrieval-Augmented Generation (RAG) platform for querying financial and legal documents.
+
+**Focus**
+
+- Document Processing
+- Embedding Pipelines
+- Vector Search
+- LLM Integration
+- Enterprise Knowledge Retrieval
+
+---
+
+## 📈 Currently Exploring
+
+- Spring Cloud
+- Docker
+- Kubernetes
+- System Design
+- Distributed Systems
+- AWS
+- Generative AI
+- RAG Applications
+
+---
+
+## 🎓 Certifications
+
+- Google Advanced Data Analytics
+- IBM Machine Learning with Python
+- IBM Deep Learning
+- IBM Reinforcement Learning
+- Data Visualization with Tableau
+- Algorithmic Toolbox
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email**
+
+ankitsuthar117@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/ankit-suthar-cse
+
+🌍 **GitHub**
+
+https://github.com/AnkitSuthar-asce
+
+---
+
+> *"Great software is built through continuous learning, thoughtful design, and attention to detail."*
